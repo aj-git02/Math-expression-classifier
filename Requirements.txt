@@ -1,0 +1,13 @@
+Libraries required-
+1.random
+2.Numpy
+3.os
+4.cv2(open-cv)
+5.PIL
+6.torch
+7.pandas
+8.matplotlib
+9.csv
+ (anaconda is preferred)
+
+10.Patience :)
